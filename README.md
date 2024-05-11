@@ -1,0 +1,1 @@
+This restful API will allow users to date online. It will allow users to register by creating a user account, add interests to ur user account, able to see all other users and also be able to find matches.
